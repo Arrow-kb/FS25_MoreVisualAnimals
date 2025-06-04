@@ -1,0 +1,9 @@
+<l10n>
+	<texts>
+		<text name="input_VisualAnimalsDialog" text="Змінити кількість видимих тварин"/>
+		<text name="mva_button_apply" text="Застосувати"/>
+		<text name="mva_button_recommended" text="Рекомендовано"/>
+		<text name="mva_button_cancel" text="Скасувати"/>
+		<text name="mva_dialog_title" text="Встановити максимальну кількість видимих тварин"/>
+	</texts>
+</l10n>

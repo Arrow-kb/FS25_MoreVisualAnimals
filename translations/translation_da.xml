@@ -1,0 +1,9 @@
+<l10n>
+	<texts>
+		<text name="input_VisualAnimalsDialog" text="Ændr visuelt antal dyr"/>
+		<text name="mva_button_apply" text="Anvend"/>
+		<text name="mva_button_recommended" text="Anbefalet"/>
+		<text name="mva_button_cancel" text="Annuller"/>
+		<text name="mva_dialog_title" text="Indstil maksimalt antal visuelle dyr"/>
+	</texts>
+</l10n>

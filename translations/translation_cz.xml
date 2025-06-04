@@ -1,0 +1,9 @@
+<l10n>
+	<texts>
+		<text name="input_VisualAnimalsDialog" text="Změnit množství zobrazených zvířat"/>
+		<text name="mva_button_apply" text="Použít"/>
+		<text name="mva_button_recommended" text="Doporučené"/>
+		<text name="mva_button_cancel" text="Zrušit"/>
+		<text name="mva_dialog_title" text="Nastavit maximální počet zobrazených zvířat"/>
+	</texts>
+</l10n>

@@ -1,0 +1,9 @@
+<l10n>
+	<texts>
+		<text name="input_VisualAnimalsDialog" text="Changement Animaux Visuels Montant"/>
+		<text name="mva_button_apply" text="Appliquer"/>
+		<text name="mva_button_recommended" text="Recommandé"/>
+		<text name="mva_button_cancel" text="Annuler"/>
+		<text name="mva_dialog_title" text="Définir le nombre maximum d'animaux visuels"/>
+	</texts>
+</l10n>

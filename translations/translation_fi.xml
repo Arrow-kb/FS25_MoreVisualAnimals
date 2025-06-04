@@ -1,0 +1,9 @@
+<l10n>
+	<texts>
+		<text name="input_VisualAnimalsDialog" text="Vaihda visuaalisten eläinten määrä"/>
+		<text name="mva_button_apply" text="Käytä"/>
+		<text name="mva_button_recommended" text="Suositeltu"/>
+		<text name="mva_button_cancel" text="Peruuta"/>
+		<text name="mva_dialog_title" text="Aseta visuaalisten eläinten maksimimäärä"/>
+	</texts>
+</l10n>

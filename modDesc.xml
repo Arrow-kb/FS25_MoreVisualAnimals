@@ -1,0 +1,40 @@
+<modDesc descVersion="99">
+    <author>Arrow</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>More Visual Animals</en>
+        <de>Mehr Visuelle Tiere</de>
+        <fr>Animaux Plus Visuels</fr>
+    </title>
+    <description>
+        <en>
+    <![CDATA[
+Standalone module from RealisticLivestock which increases the visual animal cap to 200 per placeable. Does nothing if RealisticLivestock is enabled. Slider to change the max limit of visual animals can be accessed with Shift+T.
+]]>
+</en>
+<de>
+    <![CDATA[
+Standalone-Modul von RealisticLivestock, das die Anzahl der sichtbaren Tiere pro Platzierung auf 200 erhöht. Hat keine Wirkung, wenn RealisticLivestock aktiviert ist. Der Schieberegler zum Ändern der maximalen Anzahl sichtbarer Tiere kann mit Shift+T aufgerufen werden.
+]]>
+</de>
+<fr>
+    <![CDATA[
+Module autonome de RealisticLivestock qui augmente la limite visuelle d'animaux à 200 par emplacement. N'a aucun effet si RealisticLivestock est activé. Le curseur permettant de modifier la limite maximale d'animaux visibles est accessible à l'aide de la combinaison de touches Shift+T.
+]]>
+</fr>
+    </description>
+    <iconFilename>icon_MoreVisualAnimals.dds</iconFilename>
+    <multiplayer supported="false"/>
+    <extraSourceFiles>
+        <sourceFile filename="src/RLMedium.lua"/>
+    </extraSourceFiles>
+    <l10n filenamePrefix="translations/translation"/>
+    <inputBinding>
+        <actionBinding action="VisualAnimalsDialog">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_t"/>
+        </actionBinding>
+    </inputBinding>
+    <actions>
+        <action name="VisualAnimalsDialog"/>
+    </actions>
+</modDesc>
