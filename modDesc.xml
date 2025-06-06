@@ -30,11 +30,11 @@ Module autonome de RealisticLivestock qui augmente la limite visuelle d'animaux 
     </extraSourceFiles>
     <l10n filenamePrefix="translations/translation"/>
     <inputBinding>
-        <actionBinding action="VisualAnimalsDialog">
+        <actionBinding action="mva_VisualAnimalsDialog">
             <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_t"/>
         </actionBinding>
     </inputBinding>
     <actions>
-        <action name="VisualAnimalsDialog"/>
+        <action name="mva_VisualAnimalsDialog"/>
     </actions>
 </modDesc>

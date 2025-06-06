@@ -1,6 +1,6 @@
 <l10n>
 	<texts>
-		<text name="input_VisualAnimalsDialog" text="Изменить количество видимых животных"/>
+		<text name="input_mva_VisualAnimalsDialog" text="Изменить количество видимых животных"/>
 		<text name="mva_button_apply" text="Применить"/>
 		<text name="mva_button_recommended" text="Рекомендуется"/>
 		<text name="mva_button_cancel" text="Отмена"/>

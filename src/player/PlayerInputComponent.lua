@@ -67,7 +67,7 @@ function MVA_PlayerInputComponent:registerGlobalPlayerActionEvents()
 
     VisualAnimalsDialog.register()
 
-    g_inputBinding:registerActionEvent(InputAction.VisualAnimalsDialog, VisualAnimalsDialog, VisualAnimalsDialog.show, false, true, false, true, nil, true)
+    g_inputBinding:registerActionEvent(InputAction.mva_VisualAnimalsDialog, VisualAnimalsDialog, VisualAnimalsDialog.show, false, true, false, true, nil, true)
 
 end
 
